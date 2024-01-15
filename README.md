@@ -1,7 +1,8 @@
 # RPN Test
 
-This is a simple RPN calculator that can be used to evaluate expressions in
-Reverse Polish Notation. Also includes an infix to postfix converter.
+This is a simple RPN (Reverse Polish Notation) calculator that can be used to 
+evaluate expressions in Reverse Polish Notation. Also includes an infix to 
+postfix converter.
 
 It uses the [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) to convert infix to postfix.
 
